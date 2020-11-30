@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SampleRESTWeatherApp</string>
+    <string name="descText">descText</string>
+    <string name="location">Austin, TX</string>
 </resources>
